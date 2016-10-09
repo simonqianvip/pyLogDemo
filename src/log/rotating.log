@@ -1,0 +1,6 @@
+[ 2016-10-09 20:39:54,220 - rotatingLogger - testApp - testLog ] - ERROR - error message
+[ 2016-10-09 20:39:54,230 - rotatingLogger - testApp - testLog ] - CRITICAL - critical message
+[ 2016-10-09 20:39:54,230 - rotatingLogger - testApp - testLog ] - INFO - info message
+[ 2016-10-09 20:39:54,230 - rotatingLogger - testApp - testLog ] - WARNING - warn message
+[ 2016-10-09 20:39:54,230 - rotatingLogger - testApp - testLog ] - ERROR - error message
+[ 2016-10-09 20:39:54,230 - rotatingLogger - testApp - testLog ] - CRITICAL - critical message
